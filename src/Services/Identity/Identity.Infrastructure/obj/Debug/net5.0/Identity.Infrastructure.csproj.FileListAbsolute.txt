@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\bin\Debug\net5.0\Identity.Infrastructure.deps.json
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\bin\Debug\net5.0\Identity.Infrastructure.dll
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\bin\Debug\net5.0\Identity.Infrastructure.pdb
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.dll
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\refint\Identity.Infrastructure.dll
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\Identity.Infrastructure.pdb
+C:\Users\asus\Desktop\_avm360\AVM360\src\Services\Identity\Identity.Infrastructure\obj\Debug\net5.0\ref\Identity.Infrastructure.dll
